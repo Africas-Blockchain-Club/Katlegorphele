@@ -65,4 +65,15 @@ git commit -m "Add some feature"
 ```
 git push origin fesature-branch
 ```
-5. OPen a pull request
+5. Open a pull request
+
+## License
+This repository is licensed under the MIT License.
+
+## Contact
+If you have anu questions or feedback, feel free to each out to me:
+- Email: katlegorphele@gmail.com
+- Linkedin: https://linkedin.com/in/katlegorphele
+- Twitter: @katlegorphele
+- Telegram: @katlegorphele
+- Discord: @katlegorphele
