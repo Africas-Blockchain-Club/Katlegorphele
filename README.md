@@ -16,6 +16,9 @@ With this repository, I am aim to sharing my learnings, experiences, and general
 This repository is a collection of my Web3 projects. These projects cover a range of topics, including smart contracts, decentrsalised apps (Dapps), blockchain integrations and more. Each project is housed in it's own directory and contains detailed instructions on how to set up and run it.
 
 ## Projects 👷‍♂️
+- [Blocksole](https://github.com/Africas-Blockchain-Club/Katlegorphele/tree/main/Blocksole): Blocksole is meant to intoduce blockchain thus all it's benefits to the sneaker reseller market. Ressellers can create custom pages with their products, without having to worry about smart contracts as they will be built into the template. 
+
+- [Kat_Staking](https://github.com/Africas-Blockchain-Club/Katlegorphele/tree/main/Kat_Staking): Kat_Staking is my first attempt at building a staking platform. The purpose of the project is to become familiar with the web3 tech stack. 
 
 
 ## Technologies 🧑‍💻
